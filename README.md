@@ -1,4 +1,4 @@
-## Here you will find small projet thaat I am building during learnig 
+## Here you will find small projet that I am building while learnig 
 
 ## Prerequisites
 
